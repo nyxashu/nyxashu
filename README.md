@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nyxashu
-- 👀 I’m interested in Innovation
-- 🌱 I’m currently learning Angular
-- 📫 How to reach me simple mrashutosh.here@gmail.com
-- ⚡ Fun fact: ... A bug is a feature until it comes under the sight of tester...
+👋 Hi, I'm @nyxashu!
+🚀 Passionate about Innovation
+🌱 Currently mastering Angular
+📬 Reach out to me: mrashutosh.here@gmail.com
+✨ Fun fact: Every bug is just a feature waiting to be discovered...until the tester finds it!
